@@ -107,4 +107,21 @@ if __name__ == "__main__":
             
    # print()
     print_board(board)
+    
+    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    Sample otput:
+        Maximum Fitness = 28
+Solved in iteration 3237!
+
+One of the solutions:
+Chromosome = [2, 4, 6, 8, 3, 1, 7, 5],  Fitness = 28
+x x x Q x x x x
+x x x x x x Q x
+x x Q x x x x x
+x x x x x x x Q
+x Q x x x x x x
+x x x x Q x x x
+Q x x x x x x x
+x x x x x Q x x
+    
  
